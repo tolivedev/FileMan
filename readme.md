@@ -1,6 +1,3 @@
-This is JackenQuake repository.
-Synchronized with GitHub.
-
 ## 1. ИНТЕРФЕЙС ПРОГРАММЫ И КРАТКОЕ РУКОВОДСТВО ПОЛЬЗОВАТЕЛЯ
 
 ![alt text](FileManager.png "окно FileManager")
